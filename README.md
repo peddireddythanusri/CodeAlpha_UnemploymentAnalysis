@@ -1,22 +1,22 @@
-# Unemployment Analysis with Python
+#  Unemployment Analysis with Python
 
 ## CodeAlpha Data Science Internship – Task 2
 
-This project analyzes unemployment trends using Python. The analysis includes data cleaning, exploratory data analysis, visualization, state-wise comparison, and an examination of unemployment trends during the COVID-19 period.
+This project analyzes unemployment trends using Python, including data cleaning, visualization, state-wise analysis, and COVID-19 impact analysis.
 
-## Features
+---
 
-- Dataset loading and exploration
-- Missing-value checking and data cleaning
-- Overall unemployment trend analysis
-- State-wise unemployment comparison
-- COVID-19 impact analysis
-- Employment vs unemployment visualization
-- Area-wise analysis
-- Automatic generation of graphs
-- Key insights printed in the terminal
+##  Project Objectives
 
-## Technologies Used
+- Analyze unemployment trends
+- Perform data cleaning and exploratory data analysis
+- Compare unemployment rates across regions
+- Analyze the impact of COVID-19
+- Generate meaningful visualizations
+
+---
+
+##  Technologies Used
 
 - Python
 - Pandas
@@ -24,55 +24,23 @@ This project analyzes unemployment trends using Python. The analysis includes da
 - Matplotlib
 - Seaborn
 
-## Project Structure
+---
+
+##  Project Workflow
 
 ```text
-CodeAlpha_UnemploymentAnalysis/
-│
-├── unemployment_analysis.py
-├── sample_unemployment_data.csv
-├── requirements.txt
-├── README.md
-└── images/
-```
-
-## How to Run
-
-### 1. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Run the project
-
-```bash
-python unemployment_analysis.py
-```
-
-## Dataset Note
-
-The ZIP includes an educational sample dataset so the project can run immediately.
-
-For the final CodeAlpha internship submission, download the actual dataset named:
-
-`Unemployment_Rate_upto_11_2020.csv`
-
-and place it in the main project folder. The program automatically uses the real dataset when it is available.
-
-## Output
-
-The program creates graphs inside the `images` folder:
-
-1. Overall unemployment trend
-2. State-wise unemployment rate
-3. COVID-19 impact comparison
-4. Employment vs unemployment
-5. Area-wise unemployment analysis
-
-## Author
-
-**Peddireddy Thanusri**
-
-B.Tech CSE – Data Science  
-CVR College of Engineering
+Dataset
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Unemployment Trend Analysis
+   ↓
+State-wise Analysis
+   ↓
+COVID-19 Impact Analysis
+   ↓
+Visualization
+   ↓
+Key Insights
