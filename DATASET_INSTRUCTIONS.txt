@@ -1,0 +1,11 @@
+REAL DATASET FOR FINAL SUBMISSION
+
+This project includes sample_unemployment_data.csv so the code runs immediately.
+
+For your final CodeAlpha internship project, download the real dataset:
+Unemployment_Rate_upto_11_2020.csv
+
+Place the real CSV file in the main project folder with exactly this filename:
+Unemployment_Rate_upto_11_2020.csv
+
+The Python program will automatically detect and use it.
